@@ -2,6 +2,8 @@
 
 namespace Line;
 
+use Line\Bitrix\CRest;
+
 /**
  * Класс для работы с активити бизнес-процессов
  *

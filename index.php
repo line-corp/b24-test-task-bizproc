@@ -45,8 +45,8 @@ if (isset($_GET['action']) && isset($_GET['code'])) {
 <head>
     <?php
     // Дополнительные штуки для упрощения жизни, часто нужны
-    //Asset::getBootstrap();
     //Asset::getJquery();
+    //Asset::getBootstrap();
     //Asset::getFontawesome();
     //Asset::getJS('script.js');
     //Asset::getCSS('default.css');
